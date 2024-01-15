@@ -13,7 +13,7 @@ fn main() {
                 .replace("two", "t2o")
                 .replace("three", "t3e")
                 .replace("four", "f4r")
-                .replace("five", "tf5e")
+                .replace("five", "f5e")
                 .replace("six", "s6x")
                 .replace("seven", "s7n")
                 .replace("eight", "e8t")

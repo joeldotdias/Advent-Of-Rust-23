@@ -2,8 +2,7 @@ use std::fs;
 
 struct Card {
     win_nums: Vec<u32>,
-    my_nums: Vec<u32>,
-    //copies: u32
+    my_nums: Vec<u32>
 }
 
 fn main() {
